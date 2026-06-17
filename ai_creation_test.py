@@ -1,2 +1,5 @@
 def add(a, b):
-    return a + b  # creation-only review test
+    return a + b  # update test: should NOT post a comment
+
+def mul(a, b):
+    return a * b
